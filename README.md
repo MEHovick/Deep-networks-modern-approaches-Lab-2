@@ -6,7 +6,7 @@
 ![image](https://github.com/MEHovick/Deep-networks-modern-approaches-Lab-2/assets/52539883/a6c396e0-9ba2-45dc-a8f4-1ce45e438f55)
 
 
-И улучшенная с точностью и улучшенная с точностью 58.20:
+И улучшенная с точностью 58.20:
 ![image](https://github.com/MEHovick/Deep-networks-modern-approaches-Lab-2/assets/52539883/0af9d3b7-2203-4c50-9b6e-185ddeee5105)
 
 
